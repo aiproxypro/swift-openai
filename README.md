@@ -1,3 +1,8 @@
+# Note!
+I am about to combine this into AIProxySwift. https://github.com/lzell/AIProxySwift
+
+Please only depend on this specific lib for alpha testing.
+
 # Warning
 This is alpha software.
 I have found that the AI gets confused if I don't have headphones on.
