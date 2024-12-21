@@ -45,7 +45,7 @@ open class OpenAIRealtime {
         let request = try await AIProxyURLRequest.createWS(
             partialKey: self.partialKey,
             serviceURL: self.serviceURL!,
-            proxyPath: "/v1/realtime?model=gpt-4o-realtime-preview-2024-10-01",
+            proxyPath: "/v1/realtime?model=gpt-4o-mini-realtime-preview-2024-12-17",
             clientID: self.clientID
         )
 
